@@ -31,7 +31,7 @@ To clean the 2 Bar Grip for reuse between experiments, scrub all surfaces vigoro
 
 ## Software
 
-All parts sliced (aka rendered) using PrusaSlicer 2.9.2
+All parts were sliced (aka rendered) using PrusaSlicer 2.9.2
 
 Orient object so that the 5.5mm hooks are faceing the print bed, like so:
 <p>
